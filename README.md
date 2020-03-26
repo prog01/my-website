@@ -1,5 +1,7 @@
-  # my-website
+# my-website
   
-  This is an awesome website!
+This is an awesome website!
   
-  Edit on example branch
+Edit on example branch
+
+Now editing on update-readme branch
