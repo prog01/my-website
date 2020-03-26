@@ -1,9 +1,5 @@
-# my-website
+# My Website
   
 This is an awesome website!
   
-Now editing on update-readme branch
-
-Update locally
-
-One more tweak
+Updates made on master on GitHub before rebase
